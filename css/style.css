@@ -1,0 +1,10 @@
+/*  coloca um background bege em toda página    */
+*{
+    background-color:beige;
+}
+
+/*  Centraliza o texto  */
+.center{
+    display: flex;
+    justify-content: center;
+}
